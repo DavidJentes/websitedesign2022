@@ -1,12 +1,12 @@
 # Websites used to make this Website Design project
 
-DavidDGTNT's Guacamole - [https://daviddgtntshouse.tk:8092/guacamole](https://daviddgtntshouse.tk:8092/guacamole)
-DavidDGTNT's Git Server - [https://daviddgtntshouse.tk/cgit](https://daviddgtntshouse.tk/cgit)
-DavidDGTNT's Code-Server proxy - [https://daviddgtntvm-dugo3number2.cdr.io](https://daviddgtntvm-dugo3number2.cdr.io)
+DavidDGTNT's Guacamole - [https://daviddgtntshouse.tk:8092/guacamole](https://daviddgtntshouse.tk:8092/guacamole)   
+DavidDGTNT's Git Server - [https://daviddgtntshouse.tk/cgit](https://daviddgtntshouse.tk/cgit)   
+DavidDGTNT's Code-Server proxy - [https://daviddgtntvm-dugo3number2.cdr.io](https://daviddgtntvm-dugo3number2.cdr.io)   
 
 To modify anything on any of these websites, you require a login. If you absolutely require it, you can ask David at his email, which is [david@dgtntstudios.tk](mailto:david@dgtntstudios.tk).
 
-The source code for all of these programs is freely available.
+The source code for all of these programs is freely available.  
 [Apache Guacamole Server - https://github.com/apache/guacamole-server](https://github.com/apache/guacamole-server)  
 [Apache Guacamole Client - https://github.com/apache/guacamole-client](https://github.com/apache/guacamole-client)  
 [CGit - https://git.zx2c4.com/cgit](https://git.zx2c4.com/cgit/)  
