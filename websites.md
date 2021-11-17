@@ -15,3 +15,5 @@ The source code for all of these programs is freely available.
 The server these are hosted on runs Ubuntu 20.04 and is a VM running under Proxmox Virtual Environment, based on Debian 11 Bullseye.
 
 All of these programs are web-based, which means they can all be accessed over the internet and accessed through Google Chrome or another web browser.
+
+All other software involved is running on my server through either Guacamole or code-server and most is free and open source. Anything that runs on my server cannot and will not affect any network other than my own.
