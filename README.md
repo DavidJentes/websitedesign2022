@@ -4,3 +4,5 @@ This website is open-source. There is a mirror on GitHub at https://github.com/d
 
 Previous Website Design project that was originally going to be shown at Cumberland Valley Junior Student convention:
 [Website](https://daviddgtnt.github.io/school) [Source Code](https://github.com/daviddgtnt/school)
+
+Note: I'm all for free and open-source, but since this is a school project, I added a DOCX version too because I needed to for school.
