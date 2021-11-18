@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css2?family=M+PLUS+1&family=Open+Sans&family=Roboto&family=Shippori+Antique&display=swap');
+
+body {
+    margin: 0px;
+    background-color: #ff7f50;
+}
+
+header h1 {
+    font-family: "Shippori Antique", sans-serif;
+    display: inline-block;
+    padding: 10px;
+    color: #ffffff;
+}
+
+header nav {
+    display: inline-block;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 10px;
+    background-color: #d2691e;
+}
+
+li {
+    display: inline;
+}
+
+li a {
+    display: inline-block;
+    color: #ffffff;
+    background-color: #a52a2a;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-family: "M PLUS 1", sans-serif;
+}
+
+main {
+    margin: 10px;
+    padding: 10px;
+    background-color: #d2691e;
+    font-family: "Open Sans", sans-serif;
+    color: #ffffff;
+}
+
+main p {
+    font-family: "Roboto", sans-serif;
+}
