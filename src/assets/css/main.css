@@ -26,6 +26,7 @@ nav li {
 }
 
 nav li a {
+    transition: background-color 1s;
     display: inline-block;
     color: #ffffff;
     background-color: #a52a2a;
@@ -33,6 +34,18 @@ nav li a {
     padding: 14px 16px;
     text-decoration: none;
     font-family: "M PLUS 1", sans-serif;
+}
+
+nav li a:hover {
+    background-color: #d2691e;
+}
+
+.current {
+    background-color: #ff8f61;
+}
+
+.current:hover {
+    background-color: #ee6e40;
 }
 
 main {
