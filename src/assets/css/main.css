@@ -14,18 +14,18 @@ header nav {
     display: inline-block;
 }
 
-ul {
+nav ul {
     list-style-type: none;
     margin: 0;
     padding: 10px;
     background-color: #d2691e;
 }
 
-li {
+nav li {
     display: inline;
 }
 
-li a {
+nav li a {
     display: inline-block;
     color: #ffffff;
     background-color: #a52a2a;
