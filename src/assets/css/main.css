@@ -3,11 +3,10 @@ body {
     background-color: #ff7f50;
 }
 
-header h1 {
-    font-family: "Shippori Antique", sans-serif;
-    display: inline-block;
+header img {
     padding: 10px;
-    color: #ffffff;
+    background-color: #a52a2a;
+    display: inline-block;
 }
 
 header nav {
