@@ -3,14 +3,23 @@ body {
     background-color: #ff7f50;
 }
 
-header img {
-    padding: 10px;
-    background-color: #a52a2a;
+header {
     display: inline-block;
 }
 
+header img {
+    padding: 10px;
+    background-color: #a52a2a;
+    position: relative;
+    float: left;
+    width: 20%;
+    height: auto;
+}
+
 header nav {
-    display: inline-block;
+    display: flex;
+    justify-content: center;
+    width: 77.9%;
 }
 
 nav ul {
