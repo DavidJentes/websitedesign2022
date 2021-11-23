@@ -10,3 +10,5 @@ With the Lyza the Sheepdog series of books, you can go back in time and see what
 * Walmart
 * SlushCo
 * Target
+
+Lyza the Sheepdog eBooks are available on Kindle, Nook, Kobo, DavidReader, and possibly on your local library's eBook catalog, such as Tennesee R.E.A.D.S.
