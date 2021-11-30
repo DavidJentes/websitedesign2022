@@ -4,14 +4,15 @@ body {
 }
 
 header {
-    display: inline-block;
+    display: block;
 }
 
 header img {
     padding: 10px;
     background-color: #a52a2a;
-    position: relative;
-    float: left;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
     width: 20%;
     height: auto;
 }
@@ -19,7 +20,7 @@ header img {
 header nav {
     display: flex;
     justify-content: center;
-    width: 77.9%;
+    width: 100%;
 }
 
 nav ul {
