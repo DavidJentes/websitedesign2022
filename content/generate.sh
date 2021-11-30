@@ -6,6 +6,5 @@ CONTENT[3]="book2"
 
 for i in {0..3}
 do
-    rm "${CONTENT[i]}.html"
     markdown "${CONTENT[i]}.md" > "${CONTENT[i]}.html"
 done
