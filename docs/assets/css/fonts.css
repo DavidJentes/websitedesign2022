@@ -1,0 +1,31 @@
+@font-face {
+  font-family: 'Roboto';
+  src: url('../ttf/Roboto/roboto.ttf') format('truetype');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'M PLUS 1';
+  src: url('../ttf/M_PLUS_1/mplus1.ttf') format('truetype');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Open Sans';
+  src: url('../ttf/Open_Sans/opensans.ttf') format('truetype');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Shippori_Antique";
+  src: url('../ttf/Shippori_Antique/shipporiantique') format('truetype');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
