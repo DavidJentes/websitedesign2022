@@ -1,5 +1,8 @@
 push: cgit gh
 
+python-server:
+	python3 -m http.server 3000
+
 gh:
 	git push -u ghmirror
 
