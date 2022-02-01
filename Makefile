@@ -1,4 +1,4 @@
-push: cgit gh
+push: gh cgit
 
 python-server:
 	python3 -m http.server 3000
