@@ -1,8 +1,10 @@
 body {
-    margin: 0px;
+    margin: 10px;
 }
 
-body {
+main, header {
+    border-radius: 25px;
+
     background: linear-gradient(270deg, #a52a2a, #d2691e, #ee6e40, #ff7f50, #ff7f61, #ff8f61);
     background-size: 1200% 1200%;
 
@@ -35,6 +37,10 @@ body {
 
 header {
     display: block;
+    padding: 10px;
+    margin: 10px;
+    width: 95.75%;
+    text-align: center;
 }
 
 header img {
