@@ -1,10 +1,12 @@
 body {
-    margin: 10px;
+    margin: 15px;
+    margin-top: 45px;
     background-color: #828282;
 }
 
-main, header {
+.content {
     border-radius: 25px;
+    padding: 10px;
 
     background: linear-gradient(270deg, #a52a2a, #d2691e, #ee6e40, #ff7f50, #ff7f61, #ff8f61);
     background-size: 1200% 1200%;
@@ -41,48 +43,37 @@ header {
     padding: 10px;
     margin: 10px;
     width: 95.75%;
-    text-align: center;
+    overflow-x: auto;
+    overflow-y: hidden;
+    white-space: nowrap;
 }
 
 header img {
-    padding: 10px;
-    background-color: #a52a2a;
-    display: block;
+    padding: 15px;
+    border-radius: 25px;
+    display: inline-block;
     margin-left: auto;
     margin-right: auto;
     width: 20%;
     height: auto;
 }
 
-header nav {
-    display: flex;
-    justify-content: center;
-    width: 100%;
-}
-
-nav ul {
+header a {
     list-style-type: none;
-    margin: 0;
+    margin: 0px;
     padding: 10px;
-    background-color: #d2691e;
-}
-
-nav li {
-    display: inline;
-}
-
-nav li a {
-    transition: background-color 1s;
     display: inline-block;
+    transition: background-color 1s;
     color: #ffffff;
     background-color: #a52a2a;
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
     font-family: "M PLUS 1", sans-serif;
+    border-radius: 25px;
 }
 
-nav li a:hover {
+header a:hover {
     background-color: #d2691e;
 }
 
@@ -97,6 +88,7 @@ nav li a:hover {
 main {
     margin: 10px;
     padding: 10px;
+    border-radius: 25px;
     background-color: #d2691e;
     font-family: "Open Sans", sans-serif;
     color: #ffffff;
@@ -104,4 +96,22 @@ main {
 
 main p {
     font-family: "Roboto", sans-serif;
+}
+
+::-webkit-scrollbar {
+    border-radius: 25px;
+}
+
+::-webkit-scrollbar-track {
+    visibility: hidden; 
+    margin: 20px;
+}
+
+::-webkit-scrollbar-thumb {
+    border-radius: 25px;
+    background-color: #544c4a;
+}
+
+::-webkit-scrollbar-thumb:hover {
+    background-color: #363636;
 }
