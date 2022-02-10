@@ -1,10 +1,9 @@
 #!/bin/bash
-CONTENT[0]="home"
-CONTENT[1]="about"
-CONTENT[2]="book1"
-CONTENT[3]="book2"
+CONTENT[0]="about"
+CONTENT[1]="book1"
+CONTENT[2]="book2"
 
-for i in {0..3}
+for i in {0..2}
 do
     rm "${CONTENT[i]}.html"
 done
