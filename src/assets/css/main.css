@@ -156,3 +156,24 @@ main a:hover {
         flex: 100%
     }
 }
+
+.sec {
+    padding: 10px;
+    margin: 10px;
+    background-color: #a52a2a;
+    border-radius: 25px;
+    width: 45%;
+}
+
+.sec p {
+    text-align: left;
+    
+}
+
+.sec-left {
+    float: left;
+}
+
+.sec-right {
+    float: right;
+}
