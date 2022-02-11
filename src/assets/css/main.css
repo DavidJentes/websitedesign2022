@@ -58,7 +58,7 @@ header img {
     height: auto;
 }
 
-header a, .fp-header a {
+header a, .fp-header a, .order-button {
     list-style-type: none;
     margin: 0px;
     padding: 10px;
@@ -71,9 +71,10 @@ header a, .fp-header a {
     text-decoration: none;
     font-family: "M PLUS 1", sans-serif;
     border-radius: 25px;
+    border: none;
 }
 
-header a:hover, .fp-header a:hover {
+header a:hover, .fp-header a:hover, .order-button:hover {
     background-color: #d2691e;
 }
 
