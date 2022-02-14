@@ -89,7 +89,7 @@ header a:hover, .fp-header a:hover, .order-button:hover {
 .fp-header {
     height: 30rem;
     background-position: right;
-    background-image: url("/assets//img/lyza.png");
+    background-image: url("../img/lyza.png");
     padding: 30px;
     font-family: "M_PLUS_1", sans-serif;
 }
