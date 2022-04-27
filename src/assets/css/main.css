@@ -1,11 +1,9 @@
 body {
-    margin: 15px;
-    margin-top: 45px;
+    margin-top: 15px;
     background-color: #828282;
 }
 
 .content {
-    border-radius: 25px;
     padding: 10px;
 
     background: linear-gradient(270deg, #a52a2a, #d2691e, #ee6e40, #ff7f50, #ff7f61, #ff8f61);
