@@ -72,6 +72,7 @@ main {
     margin: 10px;
     padding: 10px;
     border-radius: 25px;
+    text-align: left;
     background-color: #d2691e;
     font-family: "Open Sans", sans-serif;
     color: #ffffff;
@@ -156,6 +157,11 @@ main a:hover {
 @media (max-width: 1000px) {
     body {
         margin: 0px;
+        font-size: 20px;
+    }
+
+    .fp-header-text {
+        font-size: 2rem;
     }
 
     .content {
@@ -171,7 +177,11 @@ main a:hover {
         flex: 100%
     }
 
-    header {
+    header a {
+        font-size: 40px;
+    }
+
+    form input {
         font-size: 30px;
     }
 }
